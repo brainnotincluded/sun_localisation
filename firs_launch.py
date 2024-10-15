@@ -1,0 +1,9 @@
+from calib1 import launch_calib1
+from horizon_detector import launch_horizon_detector
+from refact_frame_data import launch_refact_frame_data
+from refact_images import launch_refact_images
+
+launch_refact_frame_data()
+launch_refact_images()
+launch_calib1()
+launch_horizon_detector()

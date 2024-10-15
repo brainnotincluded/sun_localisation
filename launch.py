@@ -1,0 +1,3 @@
+from horizon_detector import launch_horizon_detector
+
+launch_horizon_detector()
